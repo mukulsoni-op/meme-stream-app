@@ -10,7 +10,4 @@ Project is created with:
 ## Functioning
 The project has been made with the help of NodeJS, Express and EJS templates. The templates have been designed with the help of the Bootstrap library and local CSS file.
 
-Using EJS is the reason why I don't have a different folder for backend and frontend.
-
-
-### Working Link:- https://xmeme-karan-saraswat.herokuapp.com/
+Using EJS is the reason why I don't have a different folder for backend and frontend
